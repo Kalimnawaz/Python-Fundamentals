@@ -1,6 +1,7 @@
 # Python-Fundamentals
 
- Software Needed
+Softwares Needed
+
 www.anaconda.com (For using Jupyter Notebook)
 
 www.github.com (Code versioning system)
