@@ -1,0 +1,24 @@
+1.	Introduction to Python
+o	What is the command to run a Python script from the terminal?
+o	How do you write a comment in Python?
+2.	Variables and Data Types
+o	How do you declare a variable in Python?
+o	What is the difference between a list and a tuple in Python?
+3.	Lists
+o	How do you sort a list in ascending order temporarily? Permanently?
+o	Demonstrate how to slice a list to obtain a sublist.
+o	How can you count the number of elements in a list?
+4.	Tuples
+o	How do you define a tuple in Python?
+o	Why are tuples called immutable?
+o	What will happen if you try to assign a new value to a tuple element?
+5.	Basic Operators and Expressions
+o	What is the result of 3 + 4 * 2 in Python?
+o	How do you concatenate two strings?
+6.	Control Flow
+o	Write a simple if-else statement in Python.
+o	How do you write a for loop to print numbers 1 to 5?
+7.	Functions
+o	How do you define a function that takes two arguments and returns their sum?
+o	How do you call a function in Python?
+
