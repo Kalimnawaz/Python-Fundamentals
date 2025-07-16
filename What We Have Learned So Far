@@ -1,0 +1,24 @@
+1.	Introduction to Python
+o	Basics of Python syntax
+o	Running Python scripts
+2.	Variables and Data Types
+o	Assigning variables
+o	Numeric, string, list, tuple, and dictionary data types
+3.	Lists
+o	Creating and printing lists
+o	Sorting and reversing lists (temporary and permanent)
+o	Slicing lists
+o	Counting elements in a list
+4.	Tuples
+o	Creating tuples
+o	Immutability of tuples
+o	Accessing tuple elements
+5.	Basic Operators and Expressions
+o	Arithmetic operations
+o	String concatenation
+6.	Control Flow
+o	If-else statements
+o	Loops (for, while)
+7.	Functions
+o	Defining and calling functions
+o	Function arguments
